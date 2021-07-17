@@ -1,3 +1,10 @@
+This is my first React JS project following the tutorial from https://youtu.be/KzYUuTiHdiY.
+
+It is just a simple calculator project but it helps deepen my understanding in React JS framework.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
